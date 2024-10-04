@@ -475,17 +475,3 @@ public class Client {
 	}
 
 }
-
-// note``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-//
-// option b create a new customer but is not subscribed to any magazine
-// option e lets user select the newly created customer and assign them to a
-// magazine
-//
-//
-// Questions
-// When user creates a new supplement via option a, do we let the user pick
-// which magazine the supplement
-// Is option C just printing out all emails of all customers in the program
-// In option D does the user select which customer to print the end of month
-// details to
