@@ -468,7 +468,7 @@ public class Client {
 				"\nStudent no.: 35282436" +
 				"\nMode of Enrollment: Full Time" +
 				"\nTutor Name: Mr. Loo Poh Kok" +
-				"\nTutorial Attendance Date and time: Wednesday | 1415-1745 GMT +08");
+				"\nTutorial Attendance Date and time: Wednesday | 1416-1745 GMT +08");
 
 		System.out.print("\nPress anything to continue... ");
 		userInput.nextLine();
